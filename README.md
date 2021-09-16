@@ -1,6 +1,6 @@
 # Weather-app-
 
-Guess the Number for beginner using javascript es6 & weather api 
+Weather app for beginner using javascript es6 & weather api 
 
 Todo Module 6 Javascript course ( profit with javascript )
 
